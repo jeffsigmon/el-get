@@ -77,4 +77,4 @@
         (el-get-post-install "el-get"))
       (with-current-buffer buf
 	(goto-char (point-max))
-	(insert "\nCongrats, el-get is installed and ready to serve!")))))
+	(insert "\nCongratseeeeee, el-get is installed and ready to serve!")))))
